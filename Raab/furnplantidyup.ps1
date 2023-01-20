@@ -12,10 +12,10 @@
 
 # Set parameters
 
-    $furnpath_1 = "D:\kps\Furnplan"
+    $furnpath_1 = "D:\furnplan"
     $filter_1 = "old_20*"
 
-    $furnpath_2 = "D:\kps\Furnplan\setup\updates"
+    $furnpath_2 = "D:\furnplan\setup\updates"
     $filter_2 = "furnplan Handel_20*"
 
     $keep = 2   # how many old copys to keep
